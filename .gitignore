@@ -1,3 +1,4 @@
+.idea
 *.exe
 *.exe~
 *.dll
@@ -7,3 +8,5 @@
 *.out
 go.work
 go.work.sum
+
+
