@@ -14,7 +14,7 @@ This is a simple short video service backend based on HTTP and RPC protocols, di
  - Elasticsearch
  - Kibana
 
-#### 特性
+#### characteristic
  - Extremely easy to get started with and deploy
  - Relatively high code quality
  - Security considerations
