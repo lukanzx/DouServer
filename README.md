@@ -21,7 +21,7 @@ This is a simple short video service backend based on HTTP and RPC protocols, di
  - Performance optimization for interfaces
 
 #### Architecture
-![architecture](./docs/img/Architecture.png)
+![architecture](./docs/img/architecture.png)
 
 #### Project Structure
 
